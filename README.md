@@ -2,7 +2,7 @@
 
 Meu nome é marcos vinicius.
 
-Estou estudando programação na Alura
+Estou estudando programação na Alura.
 
 
 
